@@ -1,0 +1,29 @@
+{
+  "name": "cuvee-lg-blog",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "element-ui": "^2.14.1",
+    "gh-pages": "^3.1.0",
+    "gridsome": "^0.7.0",
+    "js-base64": "^3.6.0",
+    "js-cookie": "^2.2.1",
+    "js-sha1": "^0.6.0",
+    "mavon-editor": "^2.9.0",
+    "vant": "^2.11.1",
+    "vue": "^2.6.12",
+    "vue-router": "^3.4.9",
+    "vue-sticky": "^3.3.4",
+    "vuex": "^3.6.0"
+  },
+  "devDependencies": {
+    "less": "^3.12.2",
+    "less-loader": "^7.1.0"
+  }
+}
