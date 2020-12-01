@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'cuizaiyong',
-  siteUrl: 'https://cuizaiyong.github.io',
-  pathPrefix: '/gridsome-demo',
+  // siteUrl: 'https://cuizaiyong.github.io',
+  pathPrefix: '/dist',
   plugins: []
 }
